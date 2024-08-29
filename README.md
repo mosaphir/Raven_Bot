@@ -1,4 +1,10 @@
 # Raven_Bot
+
+## Join Us on telegram for more
+
+![Join](thumbnail_1.jpeg)
+
+**This Telegram CC Checker Bot is a game changer with features that make managing your checks a breeze!**
  
 Welcome to our latest video showcasing the powerful Telegram CC Checker Bot, featuring an Admin Panel, Anti-Spam system, and Checker Stats! 🚀 
 
