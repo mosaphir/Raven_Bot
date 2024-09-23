@@ -2,7 +2,7 @@
 
 ## Join Us on telegram for more
 
-![Join](thumbnail_1.jpeg)(https://t.me/cyberxbd)
+![Join](thumbnail_1.jpeg)([Nullsrc](https://t.me/nullsrc))
 
 **This Telegram CC Checker Bot is a game changer with features that make managing your checks a breeze!**
  
